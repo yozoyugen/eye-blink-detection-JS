@@ -7,5 +7,3 @@ Demo video<br>
 https://youtu.be/Zn62nJiB_8g <br>
 https://youtu.be/ARbnW4ObgG4
 
-Description<br>
-https://g-llc.co.jp/blog/programming012e/
